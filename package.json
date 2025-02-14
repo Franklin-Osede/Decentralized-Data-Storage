@@ -79,19 +79,19 @@
     "pretty-ms": "^7.0.1",
     "rc": "^1.2.8",
     "storj-lib": "internxt/core#v8.7.3-beta",
-    "strip-json-comments": "^3.0.1",
     "tail": "^2.0.2",
     "touch": "3.1.0",
     "web3-utils": "^1.0.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "chai": "^2.2.0",
+    "chai": "^4.5.0",
     "coveralls": "^2.11.2",
     "istanbul": "^0.4.5",
     "jshint": "^2.10.2",
-    "mocha": "^2.2.4",
+    "mocha": "^6.2.3",
     "proxyquire": "^2.1.1",
-    "sinon": "^1.14.1"
+    "sinon": "^7.5.0",
+    "strip-json-comments": "^3.1.1"
   }
 }
